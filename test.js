@@ -21,4 +21,3 @@ test('optionals test', function (assert) {
   assert.strictEqual(midPad('foobar', 1), 'f o o b a r');
   assert.strictEqual(midPad('foobar'), 'foobar');
 });
-
