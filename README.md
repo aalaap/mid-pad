@@ -4,6 +4,11 @@ Pads each middle character of a string with supplied string.
 
 [![Build Status][travis-image]][travis-url]
 
+## Requirements
+
+- node 6.x
+- ES2016
+
 ## Install
 
 ```bash
@@ -29,7 +34,7 @@ The third argument can be either a single character or a string.
 
 ## Changelog
 
-# 0.0.1
+### 0.0.1
 
 First release.
 
