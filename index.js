@@ -20,5 +20,6 @@ function midPad(str = '', len = 0, ch = ' ') {
     padStr += str[i] + ch.repeat(len);
   }
 
+  // Return the mid-padded sdtring
   return padStr.trim();
 }
