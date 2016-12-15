@@ -4,5 +4,5 @@ node_js:
  - "5"
  - "4"
  - "0.12"
-before_script:
- -  npm install -g "tape"
+before_install:
+ - npm install -g "tape"
