@@ -1,0 +1,20 @@
+{
+  "name": "mid-pad",
+  "version": "0.0.1",
+  "description": "Pads each middle character of a string with supplied string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "midpad",
+    "mid",
+    "middle",
+    "pad",
+    "paddding",
+    "string",
+    "repeat"
+  ],
+  "author": "Aalaap Ghag <aalaap@gmail.com>",
+  "license": "WTFPL"
+}
