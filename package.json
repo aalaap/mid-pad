@@ -15,6 +15,10 @@
     "string",
     "repeat"
   ],
+  "repository": {
+    "url": "git@github.com:aalaap/mid-pad.git",
+    "type": "git"
+  },
   "author": "Aalaap Ghag <aalaap@gmail.com> (http://aalaap.com)",
   "license": "WTFPL"
 }
