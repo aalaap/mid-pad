@@ -27,5 +27,11 @@ midPad('foobar', 3, '--')
 
 The third argument can be either a single character or a string.
 
+## Changelog
+
+# 0.0.1
+
+First release.
+
 [travis-image]: https://travis-ci.org/aalaap/mid-pad.svg?branch=master
 [travis-url]: https://travis-ci.org/aalaap/mid-pad
