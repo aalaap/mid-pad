@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node test"
   },
+  "devDependencies": {
+    "tape": "*"
+  },
   "keywords": [
     "midpad",
     "mid",
