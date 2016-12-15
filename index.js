@@ -22,7 +22,9 @@ function midPad(str = '', len = 0, ch = ' ') {
 
   // Pad each character
   for (var i = 0; i < str.length; i++) {
-    padStr += str[i] + ch.repeat(len);
+    padStr += str[i];
+
+    if (i != (str.length - 1)) padStr += ch.repeat(len);
   }
 
   // Return the mid-padded sdtring
