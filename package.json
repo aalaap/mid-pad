@@ -1,6 +1,6 @@
 {
   "name": "mid-pad",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pads each middle character of a string with supplied string.",
   "main": "index.js",
   "scripts": {
