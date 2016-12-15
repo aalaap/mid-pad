@@ -34,9 +34,17 @@ The third argument can be either a single character or a string.
 
 ## Changelog
 
+### 0.0.3
+
+- Corrected version number sync
+
+### 0.0.2
+
+- Fixed some documentation
+
 ### 0.0.1
 
-First release.
+- First release.
 
 [travis-image]: https://travis-ci.org/aalaap/mid-pad.svg?branch=master
 [travis-url]: https://travis-ci.org/aalaap/mid-pad
