@@ -21,7 +21,7 @@ midPad('foobar', 1)
 midPad('foobar', 2, ' ')
 // => "f  o  o  b  a  r"
 
-leftPad('foobar', 3, '--')
+midPad('foobar', 3, '--')
 // => "f------o------o------b------a------r"
 ```
 
